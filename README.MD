@@ -1,8 +1,7 @@
 2015 Winters:
 
-cmake .
-make
-./test
+bash compile.sh
 
 
 Visual Studio people do write #include "stdafx.h"
+and run accordingly
