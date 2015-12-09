@@ -4,7 +4,7 @@
 #include "opencv/cv.h" 
 using namespace cv;
 using namespace std;
-//Conversion to binary
+//Conversion to grayscale
 //There are Three methods
 int main(int argc, char* argv[])
 {
